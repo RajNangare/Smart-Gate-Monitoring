@@ -162,9 +162,9 @@ guest.csv (Guest Log)
 
 ## Author
 
-Anisha Kumari Lal 
-M.Tech - Computer Science and Engineering 
-NIT Allahabad
+Anisha Kumari Lal
+M.Tech – Computer Science and Engineering  
+NIT Allahabad  
 
 Raj Jagannath Nangare  
 M.Tech – Information Security  
