@@ -1,8 +1,22 @@
+# Streamlit UI
+streamlit>=1.30.0,<2.0.0
+
+# Computer vision (headless for server/cloud)
 opencv-python-headless==4.8.1.78
 numpy>=1.24.0,<2.0.0
 pandas>=2.0.0,<3.0.0
-streamlit>=1.30.0,<2.0.0
+
+# YOLO model
 ultralytics>=8.0.200
+
+# OCR
 rapidocr-onnxruntime>=1.3.0
 onnxruntime>=1.16.0
+
+# Date handling
 python-dateutil>=2.8.2
+
+# Optional: image/video processing
+Pillow>=10.0.0,<11.0.0
+
+# Optional: temporary file handling
