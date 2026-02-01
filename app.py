@@ -12,9 +12,9 @@ import tempfile
 # -----------------------------
 # Configuration & models
 # -----------------------------
-MODEL_PATH = "best.pt"
-CHECK_CSV = "check.csv"
-GUEST_CSV = "guest.csv"
+MODEL_PATH = "models/best.pt"
+CHECK_CSV = "sample_database/check.csv"
+GUEST_CSV = "sample_database/guest.csv"
 
 # load model and OCR
 model = YOLO(MODEL_PATH)
